@@ -1,0 +1,2 @@
+{:optimizations :simple
+ :optimize-constants false}

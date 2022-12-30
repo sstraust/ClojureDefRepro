@@ -1,0 +1,1 @@
+{:browser-repl true, :optimizations :simple, :optimize-constants false, :main example.core, :output-to "out/main.js", :output-dir "out", :aot-cache true}
